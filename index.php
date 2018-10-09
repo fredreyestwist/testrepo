@@ -1,4 +1,4 @@
 <?php
-  echo "test"
-  blah
+  echo "test";
+  fart;
 ?>
